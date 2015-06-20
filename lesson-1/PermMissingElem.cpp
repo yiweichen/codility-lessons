@@ -1,5 +1,5 @@
 // Codility Lesson 1
-// P2: PermMissingElem
+// PermMissingElem
 
 int solution(vector<int> &A) {
     long expectedSum = 0;

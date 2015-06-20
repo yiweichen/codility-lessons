@@ -1,5 +1,5 @@
 // Codility Lesson 1
-// P1: FrogJmp
+// FrogJmp
 
 int solution(int X, int Y, int D) {
     int distance = Y - X;

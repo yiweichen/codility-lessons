@@ -1,5 +1,5 @@
 // Codility Lesson 1
-// P3: TapeEquilibrium
+// TapeEquilibrium
 
 #include <cmath>
 

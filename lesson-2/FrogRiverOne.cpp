@@ -1,5 +1,5 @@
 // Codility Lesson 2
-// P1: FrogRiverOne
+// FrogRiverOne
 
 int solution(int X, vector<int> &A) {
     vector<bool> V = vector<bool>(A.size(), false);

@@ -1,5 +1,5 @@
 // Codility Lesson 2
-// P3: MissingInteger
+// MissingInteger
 
 int solution(vector<int> &A) {
     vector<bool> V = vector<bool>(A.size() + 1, false);

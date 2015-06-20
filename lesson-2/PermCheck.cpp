@@ -1,5 +1,5 @@
 // Codility Lesson 2
-// P2: PermCheck
+// PermCheck
 
 int solution(vector<int> &A) {
     vector<bool> V = vector<bool>(A.size(), false);

@@ -1,5 +1,5 @@
 // Codility Lesson 2
-// P4: MaxCounters
+// MaxCounters
 
 vector<int> solution(int N, vector<int> &A) {
     vector<int> C = vector<int>(N, 0);
