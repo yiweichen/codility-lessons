@@ -28,3 +28,7 @@
 - Fish [[Question](https://codility.com/demo/take-sample-test/fish/)] [[Solution](lesson-5/Fish.cpp)]
 - StoneWall [[Question](https://codility.com/demo/take-sample-test/stone_wall/)] [[Solution](lesson-5/StoneWall.cpp)]
 - Brackets [[Question](https://codility.com/demo/take-sample-test/brackets/)] [[Solution](lesson-5/Brackets.cpp)]
+
+### Lesson 6: Stacks and Queues [[Page](https://codility.com/programmers/lessons/6)]
+- Dominator [[Question](https://codility.com/demo/take-sample-test/dominator/)] [[Solution](lesson-6/Dominator.cpp)]
+- EquiLeader [[Question](https://codility.com/demo/take-sample-test/equi_leader/)] [[Solution](lesson-6/EquiLeader.cpp)]
