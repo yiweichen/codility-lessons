@@ -22,3 +22,9 @@
 - Triangle [[Question](https://codility.com/demo/take-sample-test/triangle/)] [[Solution](lesson-4/Triangle.cpp)]
 - Distinct [[Question](https://codility.com/demo/take-sample-test/distinct/)] [[Solution](lesson-4/Distinct.cpp)]
 - NumberOfDiscIntersections [[Question](https://codility.com/demo/take-sample-test/number_of_disc_intersections/)] [[Solution](lesson-4/NumberOfDiscIntersections.cpp)]
+
+### Lesson 5: Stacks and Queues [[Page](https://codility.com/programmers/lessons/5)]
+- Nesting [[Question](https://codility.com/demo/take-sample-test/nesting/)] [[Solution](lesson-5/Nesting.cpp)]
+- Fish [[Question](https://codility.com/demo/take-sample-test/fish/)] [[Solution](lesson-5/Fish.cpp)]
+- StoneWall [[Question](https://codility.com/demo/take-sample-test/stone_wall/)] [[Solution](lesson-5/StoneWall.cpp)]
+- Brackets [[Question](https://codility.com/demo/take-sample-test/brackets/)] [[Solution](lesson-5/Brackets.cpp)]
