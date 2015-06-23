@@ -10,3 +10,9 @@
 - PermCheck [[Question](https://codility.com/demo/take-sample-test/perm_check/)] [[Solution](lesson-2/PermCheck.cpp)]
 - MissingInteger [[Question](https://codility.com/demo/take-sample-test/missing_integer/)] [[Solution](lesson-2/MissingInteger.cpp)]
 - MaxCounters [[Question](https://codility.com/demo/take-sample-test/max_counters/)] [[Solution](lesson-2/MaxCounters.cpp)]
+
+### Lesson 3: Prefix Sums [[Page](https://codility.com/programmers/lessons/3)]
+- PassingCars [[Question](https://codility.com/demo/take-sample-test/passing_cars/)] [[Solution](lesson-3/PassingCars.cpp)]
+- CountDiv [[Question](https://codility.com/demo/take-sample-test/count_div/)] [[Solution](lesson-3/CountDiv.cpp)]
+- GenomicRangeQuery [[Question](https://codility.com/demo/take-sample-test/genomic_range_query/)] [[Solution](lesson-3/GenomicRangeQuery.cpp)]
+- MinAvgTwoSlice [[Question](https://codility.com/demo/take-sample-test/min_avg_two_slice/)] [[Solution](lesson-3/MinAvgTwoSlice.cpp)]
