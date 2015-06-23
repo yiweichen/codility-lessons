@@ -16,3 +16,9 @@
 - CountDiv [[Question](https://codility.com/demo/take-sample-test/count_div/)] [[Solution](lesson-3/CountDiv.cpp)]
 - GenomicRangeQuery [[Question](https://codility.com/demo/take-sample-test/genomic_range_query/)] [[Solution](lesson-3/GenomicRangeQuery.cpp)]
 - MinAvgTwoSlice [[Question](https://codility.com/demo/take-sample-test/min_avg_two_slice/)] [[Solution](lesson-3/MinAvgTwoSlice.cpp)]
+
+### Lesson 4: Sorting [[Page](https://codility.com/programmers/lessons/4)]
+- MaxProductOfThree [[Question](https://codility.com/demo/take-sample-test/max_product_of_three/)] [[Solution](lesson-4/MaxProductOfThree.cpp)]
+- Triangle [[Question](https://codility.com/demo/take-sample-test/triangle/)] [[Solution](lesson-4/Triangle.cpp)]
+- Distinct [[Question](https://codility.com/demo/take-sample-test/distinct/)] [[Solution](lesson-4/Distinct.cpp)]
+- NumberOfDiscIntersections [[Question](https://codility.com/demo/take-sample-test/number_of_disc_intersections/)] [[Solution](lesson-4/NumberOfDiscIntersections.cpp)]
