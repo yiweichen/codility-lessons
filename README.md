@@ -29,6 +29,11 @@
 - StoneWall [[Question](https://codility.com/demo/take-sample-test/stone_wall/)] [[Solution](lesson-5/StoneWall.cpp)]
 - Brackets [[Question](https://codility.com/demo/take-sample-test/brackets/)] [[Solution](lesson-5/Brackets.cpp)]
 
-### Lesson 6: Stacks and Queues [[Page](https://codility.com/programmers/lessons/6)]
+### Lesson 6: Leader [[Page](https://codility.com/programmers/lessons/6)]
 - Dominator [[Question](https://codility.com/demo/take-sample-test/dominator/)] [[Solution](lesson-6/Dominator.cpp)]
 - EquiLeader [[Question](https://codility.com/demo/take-sample-test/equi_leader/)] [[Solution](lesson-6/EquiLeader.cpp)]
+
+### Lesson 7: Maximum slice problem [[Page](https://codility.com/programmers/lessons/7)]
+- MaxSliceSum [[Question](https://codility.com/demo/take-sample-test/max_slice_sum/)] [[Solution](lesson-7/MaxSliceSum.cpp)]
+- MaxProfit [[Question](https://codility.com/demo/take-sample-test/max_profit/)] [[Solution](lesson-7/MaxProfit.cpp)]
+- MaxDoubleSliceSum [[Question](https://codility.com/demo/take-sample-test/max_double_slice_sum/)] [[Solution](lesson-7/MaxDoubleSliceSum.cpp)]
