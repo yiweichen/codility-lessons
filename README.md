@@ -37,3 +37,9 @@
 - MaxSliceSum [[Question](https://codility.com/demo/take-sample-test/max_slice_sum/)] [[Solution](lesson-7/MaxSliceSum.cpp)]
 - MaxProfit [[Question](https://codility.com/demo/take-sample-test/max_profit/)] [[Solution](lesson-7/MaxProfit.cpp)]
 - MaxDoubleSliceSum [[Question](https://codility.com/demo/take-sample-test/max_double_slice_sum/)] [[Solution](lesson-7/MaxDoubleSliceSum.cpp)]
+
+### Lesson 8: Prime and composite numbers [[Page](https://codility.com/programmers/lessons/8)]
+- CountFactors [[Question](https://codility.com/demo/take-sample-test/count_factors/)] [[Solution](lesson-8/CountFactors.cpp)]
+- MinPerimeterRectangle [[Question](https://codility.com/demo/take-sample-test/min_perimeter_rectangle/)] [[Solution](lesson-8/MinPerimeterRectangle.cpp)]
+- Peaks [[Question](https://codility.com/demo/take-sample-test/peaks/)] [[Solution](lesson-8/Peaks.cpp)]
+- Flags [[Question](https://codility.com/demo/take-sample-test/flags/)] [[Solution](lesson-8/Flags.cpp)]
