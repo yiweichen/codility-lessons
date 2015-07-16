@@ -43,3 +43,7 @@
 - MinPerimeterRectangle [[Question](https://codility.com/demo/take-sample-test/min_perimeter_rectangle/)] [[Solution](lesson-8/MinPerimeterRectangle.cpp)] [[Result](https://codility.com/demo/results/demoY4CTXK-PH6/)]
 - Peaks [[Question](https://codility.com/demo/take-sample-test/peaks/)] [[Solution](lesson-8/Peaks.cpp)] [[Result](https://codility.com/demo/results/demo98AB4Z-NRT/)]
 - Flags [[Question](https://codility.com/demo/take-sample-test/flags/)] [[Solution](lesson-8/Flags.cpp)] [[Result](https://codility.com/demo/results/demoXENUZ5-WPN/)]
+
+### Lesson 9: Sieve of Eratosthenes [[Page](https://codility.com/programmers/lessons/9)]
+- CountSemiprimes [[Question](https://codility.com/demo/take-sample-test/count_semiprimes/)] [[Solution](lesson-9/CountSemiprimes.cpp)] [[Result](https://codility.com/demo/results/demoZJ4TXT-DSJ/)]
+- CountNonDivisible [[Question](https://codility.com/demo/take-sample-test/count_non_divisible/)] [[Solution](lesson-9/CountNonDivisible.cpp)] [[Result](https://codility.com/demo/results/demo8DF5HC-UG6/)]
