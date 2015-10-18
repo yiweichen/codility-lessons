@@ -48,6 +48,6 @@
 - CountSemiprimes [[Question](https://codility.com/demo/take-sample-test/count_semiprimes/)] [[Solution](lesson-09/CountSemiprimes.cpp)] [[Result](https://codility.com/demo/results/demoZJ4TXT-DSJ/)]
 - CountNonDivisible [[Question](https://codility.com/demo/take-sample-test/count_non_divisible/)] [[Solution](lesson-09/CountNonDivisible.cpp)] [[Result](https://codility.com/demo/results/demo8DF5HC-UG6/)]
 
-### Lesson 10: Sieve of Eratosthenes [[Page](https://codility.com/programmers/lessons/10)]
+### Lesson 10: Euclidean algorithm [[Page](https://codility.com/programmers/lessons/10)]
 - ChocolatesByNumbers [[Question](https://codility.com/demo/take-sample-test/chocolates_by_numbers/)] [[Solution](lesson-10/ChocolatesByNumbers.cpp)] [[Result](https://codility.com/demo/results/demo8QC77K-VCW/)]
 - CommonPrimeDivisors [[Question](https://codility.com/demo/take-sample-test/common_prime_divisors/)] [[Solution](lesson-10/CommonPrimeDivisors.cpp)] [[Result](https://codility.com/demo/results/demoY442YF-VH5/)]
